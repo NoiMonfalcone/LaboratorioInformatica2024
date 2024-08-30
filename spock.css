@@ -1,0 +1,39 @@
+body {
+    background-color: #1b2045;
+    max-width: 100%;
+    max-height: 100%;
+    font-family: Arial ;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: .2;
+    letter-spacing: 1px;
+    overflow-x: hidden;
+}
+
+h2 {
+    color: #92e4e8;
+    font-size: 60px;
+    margin-top: 30px;
+    }
+p {
+    color: #f6ffd6;
+    font-size: 30px;
+    }
+
+.text {
+    color: #f6ffd6;
+    font-size: 30px;
+}
+
+#spockimg {
+    margin-bottom: 7rem;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
